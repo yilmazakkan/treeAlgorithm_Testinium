@@ -23,7 +23,7 @@ public class treeAlgorithm {
             }
 
         } catch (Exception e) {
-            System.out.println("You Must Enter a Integer Value !!!");
+            System.out.println("You Must Enter a Integer Value !!!  "+e);
         }
 
     }
